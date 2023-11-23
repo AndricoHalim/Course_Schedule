@@ -4,7 +4,7 @@ import android.app.Application
 import androidx.appcompat.app.AppCompatDelegate
 import androidx.preference.PreferenceManager
 import com.dicoding.courseschedule.util.NightMode
-import java.util.*
+import java.util.Locale
 
 class MyApplication : Application() {
 
